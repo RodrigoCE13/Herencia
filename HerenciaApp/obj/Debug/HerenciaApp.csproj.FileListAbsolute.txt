@@ -1,0 +1,10 @@
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\obj\Debug\HerenciaApp.csprojAssemblyReference.cache
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\obj\Debug\HerenciaApp.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\bin\Debug\HerenciaApp.exe.config
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\bin\Debug\HerenciaApp.exe
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\bin\Debug\HerenciaApp.pdb
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\bin\Debug\HerenciaLibrary.dll
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\bin\Debug\HerenciaLibrary.pdb
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\obj\Debug\HerenciaApp.csproj.CopyComplete
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\obj\Debug\HerenciaApp.exe
+C:\Users\rodri\source\repos\POO2021\Herencia\HerenciaApp\obj\Debug\HerenciaApp.pdb
